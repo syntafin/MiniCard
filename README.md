@@ -17,7 +17,10 @@
 
 # About the project
 
-Just a small contact card for my Page.
+Just a small contact card for my Page. You can find it here:
+
+* [https://syntaf.in](https://syntaf.in)
+* [https://card.syntafin.dev](https://card.syntafin.dev)
 
 # Contributing
 
