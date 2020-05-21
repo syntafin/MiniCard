@@ -14,11 +14,10 @@
 * [Versioning](#versioning)
 * [Authors](#authors)
 * [License](#license)
-* 
 
 # About the project
 
-Dieses Repository ist nur als Beispiel für [bibschxz](https://github.com/bibschxz) gedacht, um Grundlegende Konzepte von Laravel aufzuzeigen.
+Just a small contact card for my Page.
 
 # Contributing
 
